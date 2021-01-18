@@ -1,5 +1,25 @@
 # Read Only License 1.0
-The ROL is an open source license for closed source projects to share thoughts on internet.
+A ROL nyílt forráskódú licenc zárt forráskódú projektekhez/applikációkhoz.
+
+Mit lehet, és mit nem
+
+### LEHETD:
+- Klónozzni vagy letölteni az alkalmazást
+- A kódot olvasni csak a szemgolyóddal lehet
+- Kipróbálni vagy tesztelni az alkalmazást
+- Az alkalmazás működsésének megértése vagy megtanulása
+- Tárolni vagy törölni a teljes alkalmazást a saját fizikai lemezeneden
+
+### NEM LEHET:
+- Változtatásokat végezni, vagy megváltoztatni az alkalmazást
+- Feltölteni az alkalmazást az alkalmazást
+- Beküldeni az alkalmazást bármilyen piacra
+- Képernyőképeket készíteni az alkalmazásról
+- Másolni és beilleszteni a fájlt vagy a kódot bármely más projektbe/alkalmazásba
+- Kinyomtatni a kódot fizikai papírra
+
+# Read Only License 1.0
+The ROL is an open source license for closed source projects/applications
 
 As simple as dos and don'ts.
 
