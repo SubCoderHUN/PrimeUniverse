@@ -1,4 +1,4 @@
-![alt text](https://github.com/SubCoderHUN/PrimeUniverse/blob/main/primeuniverselogo.png?raw=true)
+![alt text](https://github.com/SubCoderHUN/PrimeUniverse/blob/main/primeuniverselogo_black.png?raw=true)
 # Read Only License 1.0
 A ROL nyílt forráskódú licenc zárt forráskódú projektekhez/applikációkhoz.
 
