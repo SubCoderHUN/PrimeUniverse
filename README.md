@@ -4,17 +4,16 @@ The ROL is an open source license for closed source projects to share thoughts o
 As simple as dos and don'ts.
 
 ### YOU CAN:
-- Clone or download the project
+- Clone or download the application
 - Read the code using your eyeballs
-- Build or run the project
-- Try or test the project
-- Understanding or learning the implementations of the project
-- Store or delete the entire project in your own physical disk
+- Try or test application
+- Understanding or learning the implementations of the application
+- Store or delete the entire application in your own physical disk
 
 ### YOU CAN'T:
-- Make changes or modify the project
-- Re-upload the project on the internet
-- Re-submit the project to any market place
-- Take screenshots from the project
-- Copy & paste the files or code to any other project
+- Make changes or modify the application
+- Re-upload the application on the internet
+- Re-submit the application to any market place
+- Take screenshots from the application
+- Copy & paste the files or code to any other project/application
 - Print the code as a physical paper
