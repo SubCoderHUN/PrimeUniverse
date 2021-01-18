@@ -12,7 +12,7 @@ Mit lehet, és mit nem
 
 ### NEM LEHET:
 - Változtatásokat végezni, vagy megváltoztatni az alkalmazást
-- Feltölteni az alkalmazást az alkalmazást
+- Újra feltölteni az alkalmazást az internetre
 - Beküldeni az alkalmazást bármilyen piacra
 - Képernyőképeket készíteni az alkalmazásról
 - Másolni és beilleszteni a fájlt vagy a kódot bármely más projektbe/alkalmazásba
