@@ -4,7 +4,7 @@ A ROL nyílt forráskódú licenc zárt forráskódú projektekhez/applikációk
 
 Mit lehet, és mit nem
 
-### LEHETD:
+### LEHET:
 - Klónozzni vagy letölteni az alkalmazást
 - A kódot olvasni csak a szemgolyóddal lehet
 - Kipróbálni vagy tesztelni az alkalmazást
